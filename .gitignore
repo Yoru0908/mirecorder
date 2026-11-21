@@ -1,0 +1,14 @@
+.DS_Store
+/build/
+/.build/
+/.swiftpm/
+/DerivedData/
+*.mp4
+*.mov
+*.m4a
+*.wav
+*.aiff
+*.ips
+*.log
+.env
+.env.*
